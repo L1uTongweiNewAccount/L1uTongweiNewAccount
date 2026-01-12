@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @L1uTongweiNewAccount
 - 👀 I’m interested in circuit designing and embedded devloping, etc.
 - 🌱 I’m currently learning PCB design, embedded devloping and Linux.
-- 📫 How to reach me: E-mail 1347277058@qq.com
+- 📫 How to reach me: E-mail L1uTongwei@foxmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: anything cool!
 
